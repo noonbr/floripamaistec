@@ -1,0 +1,15 @@
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\bin\Debug\net6.0\exercicio_01.exe
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\bin\Debug\net6.0\exercicio_01.deps.json
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\bin\Debug\net6.0\exercicio_01.runtimeconfig.json
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\bin\Debug\net6.0\exercicio_01.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\bin\Debug\net6.0\exercicio_01.pdb
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.csproj.AssemblyReference.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.AssemblyInfoInputs.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.AssemblyInfo.cs
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\refint\exercicio_01.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.pdb
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\exercicio_01.genruntimeconfig.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicio_01\obj\Debug\net6.0\ref\exercicio_01.dll
