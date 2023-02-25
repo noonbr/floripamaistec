@@ -1,0 +1,15 @@
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.csproj.AssemblyReference.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfo.cs
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\bin\Debug\net6.0\exercicios.exe
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\bin\Debug\net6.0\exercicios.deps.json
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\bin\Debug\net6.0\exercicios.runtimeconfig.json
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\bin\Debug\net6.0\exercicios.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\bin\Debug\net6.0\exercicios.pdb
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\refint\exercicios.dll
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.pdb
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\exercicios.genruntimeconfig.cache
+C:\Users\Jails\OneDrive\Documentos\códigos\floripamaistec\floripamaistec\modulo_01\semana_03\exercicios\obj\Debug\net6.0\ref\exercicios.dll
